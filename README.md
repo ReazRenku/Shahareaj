@@ -1,2 +1,0 @@
-# Shahareaj
-academic showcase

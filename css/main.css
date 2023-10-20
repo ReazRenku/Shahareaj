@@ -878,7 +878,7 @@ img, video {
     padding-right: 1.5rem
 }
 .py-20 {
-    padding-top: 5rem;
+    padding-top: 2rem;
     padding-bottom: 5rem
 }
 .py-3 {
@@ -1466,7 +1466,7 @@ html.dark * {
         display: flex
     }
     .lg\:w-\[580px\] {
-        width: 580px
+        width: 600px
     }
     .lg\:w-1\/4 {
         width: 25%
